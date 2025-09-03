@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Dermatology",
+        "image": "https://images.pexels.com/photos/22589552/pexels-photo-22589552/free-photo-of-massager-spreading-face-cream-across-womans-face.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "title": "Internal Medicine",
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "title": "Neurology",
+        "image": "https://images.pexels.com/photos/15410078/pexels-photo-15410078/free-photo-of-brain-model-on-plate.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "title": "General Medicine",
+        "image": "../src/assets/medicine.jpg"
+    },
+    {
+        "title": "Dentistry",
+        "image": "../src/assets/dentistry.jpg"
+    },
+    {
+        "title": "Otolaryngology",
+        "image": "../src/assets/Otolaryngology.jpg"
+    },
+    {
+        "title": "HIV/AIDS",
+        "image": "../src/assets/hiv.jpg"
+    },
+    {
+        "title": "Urology",
+        "image": "../src/assets/urology.jpg"
+    },
+    {
+        "title": "Allergy",
+        "image": "https://images.pexels.com/photos/7195086/pexels-photo-7195086.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "title": "Paediatrics",
+        "image": "../src/assets/Paediatrics.jpg"
+    },
+    {
+        "title": "Gastroenterology",
+        "image": "../src/assets/Gastroenterology.jpg"
+    },
+    {
+        "title": "Infectious Diseases",
+        "image": "../src/assets/Infectious Diseases.jpg"
+    }
+]

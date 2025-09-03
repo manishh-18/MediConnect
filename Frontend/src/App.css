@@ -1,0 +1,41 @@
+/* .centrebody {
+    overflow-x: scroll;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-image {
+    min-height: 300px;
+    height: 30rem;
+    min-width: 400px;
+    width: 40rem;
+}
+
+/* added this because it wasn't working using tailwind */
+.card-section h2 {
+    font-size: 2em;
+}
+
+.card-section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+.consulting-heading {
+    font-size: 2em;
+}
+.miniCard {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Smooth transition */
+}
+
+/* Pop out effect on hover */
+.miniCard:hover {
+    background-color:aliceblue;
+    transform: scale(1.05); /* Scale the card slightly */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Add a shadow to make it pop */
+}
